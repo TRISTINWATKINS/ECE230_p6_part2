@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+U:/half_sub.v,1740079968,verilog,,U:/ones_compliment.v,,half_sub,,,,,,,,
+U:/ones_compliment.v,1740086689,verilog,,U:/top.v,,ones_compliment,,,,,,,,
+U:/project_6pt2/project_6pt2.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+U:/project_6pt2/project_6pt2.srcs/sources_1/new/full_adder.v,1740087606,verilog,,U:/half_sub.v,,full_adder,,,,,,,,
+U:/test.v,1740079283,verilog,,,,test,,,,,,,,
+U:/top.v,1740087682,verilog,,U:/test.v,,top,,,,,,,,
